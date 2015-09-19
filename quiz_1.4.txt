@@ -1,0 +1,5 @@
+4. 
+
+delete_at deletes whatever is stored at the indicated index
+
+delete deletes that value, wherever it occurs in the arrays

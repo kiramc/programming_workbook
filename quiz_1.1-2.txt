@@ -1,0 +1,21 @@
+1.
+
+1
+2
+2
+3 
+- returns [1, 2, 3] but does not modify the caller, 
+- automatically calls to_s
+
+2. ! means "not" and ? asks "if"
+  1. != means is NOT equal to, test whether something is not equal to something else
+  2. putting ! before something turns it into a reverse boolean
+  3. putting ! after something changes it if its a new method
+      (like .uniq vs. .uniq!, it just depends on the method)
+  4. putting ? before something does nothing, unless ? :
+  5. putting ? after something only affects it if it's already 
+      part of the method
+  6. putting !! before something turns it into a boolean
+
+
+
